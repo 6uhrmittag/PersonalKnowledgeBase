@@ -2,9 +2,9 @@
 
 ## Tools and ways to record VR
 
-- **OBS-OpenVR-Input-Plugin** _[easiest since in OBS directly]_
-    - https://github.com/baffler/OBS-OpenVR-Input-Plugin
-    - OBS page includes a few instructions for cropping: https://obsproject.com/forum/resources/openvr-input-plugin.534/
+- **OBS-Plugin: OpenVR-Capture** _[easiest since in OBS directly]_
+    - https://github.com/Pigney/OpenVR-Capture
+    - Updated fork of this Plugin: https://github.com/baffler/OBS-OpenVR-Input-Plugin
 - **SteamVR Mirror Window** _[a bit more convinient]_
     - plain capture via OBS Game Capture
 - **Metas Debugging tools to record**(*more or less all the same, IMHO offering the most advanced settings, no audio)*
