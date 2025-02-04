@@ -165,13 +165,6 @@
 
 - all-in-one dashboard: https://nicolargo.github.io/glances/ **untested yet**
 
-## Windows Subsystem
-
-- https://github.com/laurent22/wslpath
-- https://www.opsview.com/resources/application/blog/opsview-wsltools-beta-go
-    - monitoring and management interface for (WSL)
-- https://github.com/sirredbeard/Awesome-WSL#wsl-tools
-
 ## Windows Admin Tools
 
 - O&O RegEditor: https://www.oo-software.com/de/ooregeditor

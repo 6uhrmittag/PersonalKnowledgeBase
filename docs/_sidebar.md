@@ -14,6 +14,7 @@
 - [💡Cheatsheet](cheatsheet/)
 - [Tools](tools/)
     - [Usefull tools](tools/)
+    - [WSL](tools/WSL.md)
     - [Testing tools](tools/testing.md)
     - [Azure/AzureAD](tools/azure.md)
     - [Vagrant](tools/vagrant.md)
