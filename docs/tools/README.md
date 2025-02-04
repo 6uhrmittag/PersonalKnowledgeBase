@@ -13,9 +13,9 @@
 ## real-time audio analyzer
 
 - https://friture.org/
-  - only downside: can analyze the output of windows, just inputs
+    - only downside: can analyze the output of windows, just inputs
     - workaround: use https://vb-audio.com/Cable/index.htm
-      - install -> in Windows audio settings: set cable as default output -> in friture: set cable as input
+    - install -> in Windows audio settings: set cable as default output -> in friture: set cable as input
 
 ## website frameworks/generators
 
@@ -67,7 +67,7 @@
 - https://vexlio.com/
     - simple diagrams, on-time purchase, desktop
 - https://playground.diagram.codes/
-  - different types of diagrams by code, online
+    - different types of diagrams by code, online
 
 #### infrastructure diagrams
 
@@ -120,7 +120,7 @@
 - https://schemio.app/#/
     - interactive diagrams, free, online
 - https://text-to-diagram.com/
-  - comparisons between Text to Diagram tools, inkl. online editor
+    - comparisons between Text to Diagram tools, inkl. online editor
 
 #### infographics
 
@@ -292,4 +292,4 @@ sudo machinery export-html --html-dir test localhost
 ## transportation
 
 - Map of direct train connections from any City
-  - https://direkt.bahn.guru/?origin=8011160
+    - https://direkt.bahn.guru/?origin=8011160
