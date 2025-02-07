@@ -1,5 +1,7 @@
 # Tools to install
 
+!> Will be refactored into https://github.com/6uhrmittag/setup-workstation within 2025
+
 # via patchmypc
 
 see https://patchmypc.com/home-updater-download
@@ -104,32 +106,12 @@ scoop uninstall <app>
 - https://www.logitech.com/de-de/software/capture.html
 
 ## Powershell
-### Install Preview 7
-Install Powershell 7 via WinStore
 
-### Create Profile
-````powershell
-if (!(Test-Path -Path $PROFILE ))
-{ New-Item -Type File -Path $PROFILE -Force }
-````
-### Init 
-
-````powershell
-Set-PSRepository -name PSGallery -InstallationPolicy Trusted
-Install-Module -Name PSReadLine -AllowPrerelease -Force
-````
-### Copy Profile
-````powershell
-notepad.exe $PROFILE
-````
-Copy content from: https://raw.githubusercontent.com/6uhrmittag/KB/master/docs/setup/windows/Microsoft.PowerShell_profile.ps1
+Moved to https://github.com/6uhrmittag/setup-workstation
 
 ## Windows Terminal
-### Install
-included in Win 11
 
-### Settings
-Move needed parts in settings.json (via Terminal -> Settings): https://raw.githubusercontent.com/6uhrmittag/KB/master/docs/setup/windows/terminal/settings.json
+Moved to https://github.com/6uhrmittag/setup-workstation
 
 ## Experimental
 
