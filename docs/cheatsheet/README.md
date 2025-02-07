@@ -14,6 +14,8 @@
     - openssl s_client -connect <server>:<port>
 - check if required CA for cert is imported
     - openssl x509 verify -in cert.pem
+- check expiration date
+    - echo | openssl s_client -connect <server>:<port> | openssl x509 -noout -dates
 
 # Test Mail
 
