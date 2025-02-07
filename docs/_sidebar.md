@@ -15,6 +15,7 @@
 - [Tools](tools/)
     - [Usefull tools](tools/)
     - [WSL](tools/WSL.md)
+    - [Windows Terminal](tools/WindowsTerminal.md)
     - [Testing tools](tools/testing.md)
     - [Azure/AzureAD](tools/azure.md)
     - [Vagrant](tools/vagrant.md)
