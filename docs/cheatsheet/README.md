@@ -1,5 +1,20 @@
 # Usefull commands
 
+# openssl, certificates, ssl
+
+- conert *.cer to *.pem
+    - openssl x509 -in cert.cer -outform pem -out cert.pem
+- output text of certificate
+    - openssl x509 -noout -text -in /etc/ssl/certs/cert.crt
+- check CA certs in bundle
+    - openssl storeutl -noout -text -certs /etc/ssl/certs/ca-certificates.crt | grep Subject:
+- verify remote Server with CA-File
+    - openssl s_client -CAfile cert.pem -connect <server>:<port>
+- inspect remote Servers SSL
+    - openssl s_client -connect <server>:<port>
+- check if required CA for cert is imported
+    - openssl x509 verify -in cert.pem
+
 # Test Mail
 
 ## An E-Mail Adresse
