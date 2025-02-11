@@ -17,6 +17,11 @@
 - check expiration date
     - echo | openssl s_client -connect <server>:<port> | openssl x509 -noout -dates
 
+# SSH
+
+- print local Host-Key fingerprints
+    - for f in /etc/ssh/ssh_host_*_key.pub; do ssh-keygen -lf "$f"; done
+
 # Test Mail
 
 ## An E-Mail Adresse
