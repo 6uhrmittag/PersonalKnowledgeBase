@@ -1,10 +1,10 @@
 - Blog
-    - [Today I learned](blog/til/)
-    - [Questions](blog/questions/)
-    - [dev diary](blog/dev/)
-        - [admindojo](blog/dev/admindojo.md)
-        - [taskbutler](blog/dev/taskbutler.md)
-        - [other](blog/dev/other.md)
+  - [Things I learned](blog/til/)
+  - [Questions to Answer](blog/questions/)
+  - [dev diary](blog/dev/)
+      - [admindojo](blog/dev/admindojo.md)
+      - [taskbutler](blog/dev/taskbutler.md)
+      - [other](blog/dev/other.md)
 - Notes
     - [Notes](notes/)
     - [Trans stuff🏳️‍⚧️](trans/)

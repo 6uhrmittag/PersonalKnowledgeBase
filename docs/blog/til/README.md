@@ -1,4 +1,4 @@
-# Today I learned
+# Things I learned
 
 ## 2020 - what I've learned, done and thought
 
