@@ -6,10 +6,14 @@
 
 tl;dr: Create this folder and a Cloud-Init file per Distro: `C:\Users\$env:USERPROFILE\.cloud-init\Ubuntu-24.04.user-data`
 
-- documentation:
+- documentation by Canonical:
     - https://documentation.ubuntu.com/wsl/en/latest/howto/cloud-init/
-- Cloud-init documentation:
+- documentation by cloud-init:
+    - https://cloudinit.readthedocs.io/en/latest/reference/datasources/wsl.html
+- cloud-init - general documentation:
     - https://cloudinit.readthedocs.io/en/latest/index.html
+- cloud-init - tutorial/quickstart for WSL:
+    - https://cloudinit.readthedocs.io/en/stable/tutorial/wsl.html
 
 ## Random Links
 
