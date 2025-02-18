@@ -204,3 +204,31 @@ Persönliches Fazit:
 - Raumtemperatur und dunkel (Kühlschrank ist nicht nötig)
 - Ungeöffnete wohl 2-3 Jahre haltbar
 - Geöffnete wohl 1-1.5 Jahre haltbar, wenn sauber gearbeitet wurde
+
+### Bluttest
+
+Sinnvolle Werte für initialen Test
+
+#### https://www.meindirektlabor.de/ueber-uns/preisliste/bioscientia-berlin-spandau/
+
+- Beta-Östradiol (Estradiol, E2): 23,46 €
+- Testosteron (T): 23,46 €
+- Sexualhormon-bindendes Globulin (SHBG): 30,16 €
+- Prolaktin (PRL): 23,46 €
+- Thyreotropin (TSH, Schilddrüsenwert): 16,76 €
+- Freies T3: 16,76 €
+- Freies T4: 16,76 €
+- Ferritin (Eisenstatus): 16,76 €
+- Vitamin D3 (25-OH-D3): 21,45 €
+- HbA1c (Langzeitblutzucker): 13,41 €
+- Kreatinin (Nierenfunktion): 2,68 €
+- Blutbild (groß): 5,36 €
+- Natrium(Elektrolyte): 2,01 €
+- Kalium(Elektrolyte): 2,01 €
+- Gamma-GT(Leberwerte): 2,68 €
+- Cholesterin, gesamt:   2,68 €
+- HDL-Cholesterin: 2,68 €
+- LDL-Cholesterin: 2,68 €
+- GPT (ALAT): 2,68 €
+- GOT (ASAT): 2,68 €
+- Creatinkinase(Statinunverträglichkeit): 2,68 €
