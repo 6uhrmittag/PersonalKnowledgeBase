@@ -113,7 +113,7 @@ When getting the BD MICRO-FINE+ remember that the container needs to be big enou
 
 - https://www.meindirektlabor.de/standorte/
 
-### Day 0 - 20.01.2024 - Blood tests and getting results too fast to plan
+### Day 0 - 20.01.2025 - Blood tests and getting results too fast to plan
 
 Went to the lab in the morning and forgot something important: plan the next steps.  
 Because I didn't expect the results to be ready the SAME day.  
@@ -122,7 +122,7 @@ Ok, I paid 200€ for the tests... but didn't expect them to be ready at 16pm.
 I took the rest of the day to read up on dosage and how to choose the right day...  
 After reading so many stories about being emotional and unstable, I decided to go with Wednesday or Thursday, to not have an emotional breakdown at work or at least could flee into homeoffice.
 
-### Week 1 - 21.01.2024 - Preparing for the big cry
+### Week 1 - 21.01.2025 - Preparing for the big cry
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 09:05
@@ -132,21 +132,21 @@ After debating with myself and ChatGPT, I decided to just go for it immediately 
 The rest of the week went super uneventful. I was so prepared for the big cry, but nothing happened :D
 I felt just a tiny bit relaxed.
 
-### Week 2 - 28.01.2024 - A new kind of happiness
+### Week 2 - 28.01.2025 - A new kind of happiness
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 08:00
 
 Week two I slowly felt like the slight increase in happiness is consistent and noticable - I started to smile every time I looked into the mirror.
 
-#### Sunday - 02.02.2024 - Sudden physical changes: My skin isn't oily, it's just softer?!!
+#### Sunday - 02.02.2025 - Sudden physical changes: My skin isn't oily, it's just softer?!!
 
 At the end of a lazy weekend - 2 days of not shaving and showering(oops) - I suddenly realize that my skin doesn't feel the usual kind of _soft_ it becomes after 2 of these days.  
 It's a different kind of soft. It's soft without being greasy and oily. It's just soft.
 
 omg. It's happening.
 
-### Week 3 - 04.02.2024 - I might need to buy longer barbells for my nipple piercings quite soon
+### Week 3 - 04.02.2025 - I might need to buy longer barbells for my nipple piercings quite soon
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 07:00
@@ -156,7 +156,7 @@ Ok, sorry babe, but they should be healed by now.
 Physical changes are happening.
 omg.
 
-### Week 4 - 11.02.2024 - I've joined the "Am I am just getting fatter or is the HRT working?" game
+### Week 4 - 11.02.2025 - I've joined the "Am I am just getting fatter or is the HRT working?" game
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 07:00
@@ -167,7 +167,7 @@ I'm still not sure. But... there might be something happening.
 This week I also started to like my appearance more and more - like HRT added the thing that I was missing before: I didn't feel like I'm faking it, like before. Yes, the bra still felt a bit weird and _too much_, but even that in a different way than before.  
 hui.
 
-### Week 5 - 18.02.2024
+### Week 5 - 18.02.2025
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 10:00
@@ -175,3 +175,8 @@ hui.
 Still went with 7mg/week even though I thought about lowering to 5mg/week because I've read that the spike might be to high with 7mg/week.. but I probably wait till the first follow-up blood test and decide then(somewhere in the next weeks).  
 It also feels like my body hair - that I treated with IPL for the past years - is currently growing back faster than I'm used to(I reduced it to _every few months_ without much regrowth).  
 It is something expected to happen, triggered by second puberty. I'll see how it goes and probably start doing IPL regularly again.
+
+### Week 6 - 25.02.2025
+
+- Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
+- Time: 09:00
