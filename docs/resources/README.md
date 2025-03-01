@@ -3,7 +3,7 @@
 ## windows
 
 - list of environment variables on Windows 10
-  - https://pureinfotech.com/list-environment-variables-windows-10/
+    - https://pureinfotech.com/list-environment-variables-windows-10/
 
 ## linux
 
@@ -91,9 +91,40 @@
 - https://www.findbestopensource.com/tagged/ctf
 - ~~http://list.rawsec.ml/ctf_platforms.html~~ [offline]
 
-# Windows 
+# Windows
+
 ## Powershell
+
 ## GPO
+
 https://powershellmagazine.com/2012/05/14/managing-group-policy-with-powershell/
 https://github.com/EvotecIT/GPOZaurr
 https://evotec.xyz/the-only-command-you-will-ever-need-to-understand-and-fix-your-group-policies-gpo/
+
+# file hosting
+
+## hosting services
+
+- https://uguu.se/
+    - files hosted for 3 hours only
+    - no account
+    - upload via curl
+    - `curl -i -F files[]=@yourfile.jpeg https://uguu.se/upload`
+- https://0x0.st/
+    - files hosted for 30 days up to 1 year, depending on file size
+    - admins blog: https://movsw.0x0.st/@0x0
+    - upload via curl
+    - file management via curl
+    - very nerdy:3
+- https://pomf.lolisandstuff.moe/
+    - requires account
+    - files hosted forever
+    - got an browser extension to upload
+- https://litterbox.catbox.moe/
+    - files hosted for 1 hour to 3 days
+    - not open source
+
+## tools to host
+
+- https://github.com/nokonoko/uguu
+- https://git.0x0.st/mia/0x0
