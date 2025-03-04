@@ -55,7 +55,8 @@ This day I realized:
 Of course, I don't see the point of getting a tattoos or piercings on a body that I don't feel connected. It's like decorating someone else's home.
 
 At this point, I've decided to start HRT till the end of the year.  
-A lot has happened the rest of the year. Work got super chaotic. But I also experimented with tattooing myself. I think this changed my view on my body a lot. It wasn't even the big bang I've expected. I think because the big change in my mind already happened with the decision to set everything up
+A lot has happened the rest of the year. Work got super chaotic. But I also experimented with tattooing myself. I think this changed my view on my body a lot. It wasn't even the big bang I've expected. I think because the big change in my mind already happened with the decision
+to set everything up
 to do it.  
 The moment I finished the first tiny star, I just continued with a few more - it immediately felt like the right thing to do.  
 My body became mine.
@@ -180,3 +181,21 @@ It is something expected to happen, triggered by second puberty. I'll see how it
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 09:00
+
+- changes
+    - Felt a little meh the whole week - probably because of the weather and a light cold.
+    - First week I didn't feel a specific change - more neutral.
+- hair/skin
+    - Had rather itchy legs. Don't know if it's related to E. Got a bit better after shaving.
+- clothes/fashion
+    - didn't wear specific feminine clothes the whole week(even at home). Just didn't feel like it. Something that felt rather unusual, but not bad.
+
+### Week 7 - 04.05.2025
+
+- Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
+- Time: 07:00
+
+notes
+
+- Felt way better monday(lowest E day) and tuesday(day of the injection) than the whole week before. Can have lots of reasons I guess.
+- made an appointment to get blood work done on the 10th of May. (It's recommended to do it on the day of the lowest E level - so the day before the next injection)
