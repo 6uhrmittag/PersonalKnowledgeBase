@@ -110,6 +110,17 @@
 
 - https://pbs.twimg.com/media/D2SwK46XcAAZ5hG.jpg
 
+#### Timelines, Roadmaps, Gantt
+
+- https://markwhen.com/
+    - markdown-like syntax für timelines/calendars and everything date related
+- https://mermaid.js.org/syntax/timeline.html **untested yet**
+    - Mermaid has experimental diagram support
+- https://timeline.knightlab.com/#make **untested yet**
+    - Timelines from a Google Spreadsheet
+- https://github.com/cheeaun/life **untested yet**
+    - small, personal project for personal milestones in life
+
 #### other
 
 - Create standard network protocol headers diagrams: http://www.luismg.com/protocol/ **untested yet**
