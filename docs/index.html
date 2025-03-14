@@ -28,10 +28,25 @@
         <div id="app">Rendering. Please wait a second...</div>
         <!-- Offline Progressive Web App https://docsify.js.org/#/pwa -->
         <script>
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.getRegistrations().then(function (registrations) {
+                    for (let registration of registrations) {
+                        registration.unregister();
+                    }
+                }).catch(function (error) {
+                    console.log('Service Worker unregistration failed: ', error);
+                });
+            }
+        </script>
+        <!--
+        // register again
+        // Disabled since it often requires a forced reload to update the cache
+        <script>
             if (typeof navigator.serviceWorker !== 'undefined') {
                 navigator.serviceWorker.register('sw.js')
             }
         </script>
+        -->
 
         <!-- Config -->
         <script>
