@@ -229,3 +229,22 @@ Link to chart: https://advsim.transfemscience.org/?r=3&e=444&d1=7&d2=6&d3=5&ra=3
 
 - Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
 - Time: 09:00
+
+notes:
+
+- told my psychiatrist about starting HRT (because I take Vyvanse/Elvanse). A bit awkward, but also the first time I've experienced a doctor reacting like a normal human being :D Emphatic, friendly and interested, but also a bit overwhelmed and confused on what to do next :D Very
+  Cool guy(: He will keep that in mind when doing the regular blood tests for Vyvanse/Elvanse (Which was the reason I told him in the first place [And as everyone should! This is important! Don't lie to doctors when it could be relevant!])
+
+changes:
+
+- none really. Ok. Maybe I've felt all the emotions and cried a lot every other day. But I refuse to believe that it's related to the E - I've been always like this (no, I'm not in denial. It's the butterflies, OK!!??!11!?!) XD
+- no physical changes as far as I can tell
+
+### Week 9 - 18.03.2025
+
+- Dosage: Mid (5 mg/week); [0.10 ml](https://www.wolframalpha.com/input?i=0.10mg%2Fml*50mg%2Fml) or 10 Units of the U100 Scale.
+- Time: 08:05
+
+notes:
+
+- Down to 5 mg this week. Did not feel a difference last week with 6 mg, so good to go down to 5 mg and see how it goes.  
