@@ -338,3 +338,8 @@ You may have to set up the OpenVR-SpaceCalibrator again if you switch tools. Som
     - https://vr-compare.com/
 - Sub-Reddit r/MixedVR specifically for mixed setups like Quest + Vive Tracker
     - https://www.reddit.com/r/MixedVR/
+
+#### ModMic Wireless
+
+- Make sure to enable AGC in the Windows Sound Settings
+- See for more info: https://www.igorslab.de/antlion-modmic-wireless-im-test-das-beste-was-einen-kopfhoerer-zum-headset-macht-aber-auch-mit-das-teuerste/2/
