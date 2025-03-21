@@ -8,6 +8,14 @@
     - can generate single files(unlike cookiecutter)
     - https://github.com/rgeyer/boilr (original repo is unmaintained)
 
+## archiving
+
+### download of waybackmachine/archive.org
+
+- https://github.com/StrawberryMaster/wayback-machine-downloader
+    - download the raw files from the wayback machine
+    - the best tool I found for this. Only fork that worked for me
+
 ## audio
 
 ## real-time audio analyzer
@@ -16,6 +24,28 @@
     - only downside: can analyze the output of windows, just inputs
     - workaround: use https://vb-audio.com/Cable/index.htm
     - install -> in Windows audio settings: set cable as default output -> in friture: set cable as input
+
+## misc
+
+### Tools to prevent speakers from going to sleep by playing a silent sound
+
+Some speakers and sound systems go to sleep after a certain time of silence:
+
+- BOSE SoundLink Air: 20 minutes
+- KRK Rokit speakers: 30 minutes
+
+A simple solution is to play a silent sound in an interval.
+
+Microsoft PowerToys don't want to implement it(https://github.com/microsoft/PowerToys/issues/16059), so some alternatives:
+
+- https://janeisklar.net/2018/10/03/rokit-krk-auto-standby-deactivation-with-software/ :+1:
+    - beautiful tiny tool that solves the problem perfectly.
+- https://github.com/drittich/RokitIgniter
+    - probably works for the Rokit speakers, but a bit clunky and fixed interval and sound
+- https://github.com/benjaminRi/Audio-keepawake?tab=readme-ov-file **untested yet**
+- https://github.com/handruin/spdif-ka **untested yet**
+- https://veg.by/en/projects/soundkeeper/ **untested yet**
+    - most advanced, just no gui or system tray
 
 ## website frameworks/generators
 
