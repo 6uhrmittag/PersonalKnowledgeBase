@@ -1,6 +1,6 @@
 # gaming - modding
 
-Notes on how to mod games. Mostly Unity games and specific games.
+Notes on how to mod games. Mostly Unity games.
 
 ## asset extraction (Unity games)
 
@@ -34,6 +34,8 @@ The result is that even some of the universal mods listed in the MelonLoader Wik
 
 ## guides
 
+- https://jf.id.au/blog/reverse-engineering-a-unity-game
+- https://jf.id.au/blog/modding-unity-il2cpp-games
 - https://steamcommunity.com/sharedfiles/filedetails/?id=2850274044
 - https://steamcommunity.com/sharedfiles/filedetails/?id=2854936721
 
