@@ -171,7 +171,7 @@ hui.
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 10:00
 
-Still went with 7mg/week even though I thought about lowering to 5mg/week because I've read that the spike might be to high with 7mg/week.. but I probably wait till the first follow-up blood test and decide then(somewhere in the next weeks).
+Still went with 7 mg/week even though I thought about lowering to 5 mg/week because I've read that the spike might be to high with 7 mg/week.. but I probably wait till the first follow-up blood test and decide then(somewhere in the next weeks).
 It also feels like my body hair - that I treated with IPL for the past years - is currently growing back faster than I'm used to(I reduced it to _every few months_ without much regrowth).
 It is something expected to happen, triggered by second puberty. I'll see how it goes and probably start doing IPL regularly again.
 
@@ -216,9 +216,9 @@ Did a blood test after 50 days. The day before the next injection - so should be
 | Prolactin         | 13,3 µg/l   | 26,6 μg/l  |
 
 The results seem to be as expected(yahi!🥳🙃🤸).  
-I knew I'd overshoot the E2 levels with 7mg/week, but I didn't want to change the dosage before the first blood test.  
-I'll lower the dosage to 6mg/week for this week and to 5mg/week for the next weeks (to not have a _"hard"_ drop from 7 to 5) and will take another test in about 4 weeks.  
-This should give a good indication whether to stay on 5mg/week or 6mg/week.
+I knew I'd overshoot the E2 levels with 7 mg/week, but I didn't want to change the dosage before the first blood test.  
+I'll lower the dosage to 6 mg/week for this week and to 5 mg/week for the next weeks (to not have a _"hard"_ drop from 7 to 5) and will take another test in about 4 weeks.  
+This should give a good indication whether to stay on 5 mg/week or 6 mg/week.
 
 For reference the chart from the simulator:
 ![with 481pg/ml I'm overshooting the required levels as expected ](./.assets/simulator_graph_week8.png)
@@ -242,9 +242,21 @@ changes:
 
 ### Week 9 - 18.03.2025
 
-- Dosage: Mid (5 mg/week); [0.10 ml](https://www.wolframalpha.com/input?i=0.10mg%2Fml*50mg%2Fml) or 10 Units of the U100 Scale.
+- Dosage: Mid/average (5 mg/week); [0.10 ml](https://www.wolframalpha.com/input?i=0.10mg%2Fml*50mg%2Fml) or 10 Units of the U100 Scale.
 - Time: 08:05
 
 notes:
 
-- Down to 5 mg this week. Did not feel a difference last week with 6 mg, so good to go down to 5 mg and see how it goes.  
+- Down to 5 mg this week. Did not feel a difference last week with 6 mg, so good to go down to 5 mg and see how it goes.
+
+### Week 10 - 25.03.2025
+
+- Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
+- Time: 08:00
+
+notes:
+
+- Went back to 6 mg/week, as I felt rather _mehh_ the whole week. After some more research, I think even a presumably low 1 mg drop could trigger menopause-like symptoms.  
+  Physically, I felt _ok/average_. But I could see myself spiraling down into a _why even continue_ mood.  
+  I'll stick to 6 mg/week for at least month now and check blood levels again, since the main reason for going down was just to not peak at > 481 pg/ml E2 for too long.  
+  **Learning**: when lowering the dosage, do it in 1 mg or even 0.5 mg steps and keep it there for at least 2 weeks before going down again (especially when dropping from a rather high E level).
