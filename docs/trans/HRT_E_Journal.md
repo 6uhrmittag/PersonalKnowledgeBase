@@ -260,3 +260,13 @@ notes:
   Physically, I felt _ok/average_. But I could see myself spiraling down into a _why even continue_ mood.  
   I'll stick to 6 mg/week for at least month now and check blood levels again, since the main reason for going down was just to not peak at > 481 pg/ml E2 for too long.  
   **Learning**: when lowering the dosage, do it in 1 mg or even 0.5 mg steps and keep it there for at least 2 weeks before going down again (especially when dropping from a rather high E level).
+
+### Week 11 - 01.04.2025 to Week 14 - 22.04.2025
+
+- Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
+- Time: 07:00–08:00
+
+notes:
+
+I don't have much to say about these weeks to be honest. After the more higher levels and obvious changes around 8, I don't really notice obvious changes right now. Guess I just live?!  
+Much of it is more psychological, I think. Enjoying the calm sea after leaving a long storm behind. A lot of adjusting, exploring, enjoying and relaxing.
