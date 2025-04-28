@@ -286,6 +286,7 @@ As far as I can tell, the most popular Forks of OpenVR-SpaceCalibrator are:
     - https://github.com/ArcticFox8515/OpenVR-SpaceCalibrator/releases
 - The most up-to-date Fork by _hyblocker_ uses ArcticFox8515 as a base, added support for the Pimax Crystal and fine-tuned the app in general
     - https://github.com/hyblocker/OpenVR-SpaceCalibrator/network
+    - since Feb. 2025, OpenVR-SpaceCalibrator is also available on Steam: https://store.steampowered.com/app/3368750/Space_Calibrator/
 
 To find the most up-to-date version or interesting Forks of other people, you can check the network graph on GitHub. It shows who uses whose code and who integrated whose code into their Fork:
 
@@ -294,13 +295,13 @@ To find the most up-to-date version or interesting Forks of other people, you ca
 - https://github.com/ArcticFox8515/OpenVR-SpaceCalibrator/network
 - https://github.com/hyblocker/OpenVR-SpaceCalibrator/network
 
-**TLDR** To use the most up-to-date version of OpenVR-SpaceCalibrator, use the Fork by hyblocker: https://github.com/hyblocker/OpenVR-SpaceCalibrator
+**TLDR:** Just get OpenVR-SpaceCalibrator on Steam for free and enjoy automatic Updates: https://store.steampowered.com/app/3368750/Space_Calibrator
 
 #### Tips for Initial Setup of OpenVR-SpaceCalibrator (for Continuous Calibration)
 
 Preface:
 
-- I am using the latest fork by hyblocker: https://github.com/hyblocker/OpenVR-SpaceCalibrator/releases/tag/v1.5
+- I switched from hyblocker's GitHub version to the Steam version: https://store.steampowered.com/app/3368750/Space_Calibrator/
 - I've followed the instructions on the GitHub page: https://github.com/hyblocker/OpenVR-SpaceCalibrator/blob/v1.5/README.md#2-continuous-calibration
 
 **All guides and videos seem to miss some initial steps**, which were really confusing for me:
