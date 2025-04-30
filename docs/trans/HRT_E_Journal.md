@@ -270,3 +270,13 @@ notes:
 
 I don't have much to say about these weeks to be honest. After the more higher levels and obvious changes around 8, I don't really notice obvious changes right now. Guess I just live?!  
 Much of it is more psychological, I think. Enjoying the calm sea after leaving a long storm behind. A lot of adjusting, exploring, enjoying and relaxing.
+
+# Week 15 - 29.04.2025
+
+- Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
+- Time: 07:00
+
+notes:
+
+Not much to say; buut I feel a bit better than 2 days ago, when I wrote the short note on _Week 11 to Week 14_.  
+Could be just the sun. Could also be the levels at the end of the week, or just life ¯\(°_o)/¯ lol.
