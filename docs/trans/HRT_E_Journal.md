@@ -60,7 +60,7 @@ to do it.
 The moment I finished the first tiny star, I just continued with a few more - it immediately felt like the right thing to do.
 My body became mine.
 
-## Checkpoints, Milestones and Check-ins
+## Checkpoints, Milestones, and Check-ins
 
 ### Week -1 - Ordering everything to be ready for the day I feel ready for it
 
@@ -269,7 +269,7 @@ notes:
 notes:
 
 I don't have much to say about these weeks to be honest. After the more higher levels and obvious changes around 8, I don't really notice obvious changes right now. Guess I just live?!  
-Much of it is more psychological, I think. Enjoying the calm sea after leaving a long storm behind. A lot of adjusting, exploring, enjoying and relaxing.
+Much of it is more psychological, I think. Enjoying the calm sea after leaving a long storm behind. A lot of adjusting, exploring, enjoying, and relaxing.
 
 # Week 15 - 29.04.2025
 
@@ -280,3 +280,30 @@ notes:
 
 Not much to say; buut I feel a bit better than 2 days ago, when I wrote the short note on _Week 11 to Week 14_.  
 Could be just the sun. Could also be the levels at the end of the week, or just life ¯\(°_o)/¯ lol.
+
+### Week 16 - 06.05.2025
+
+- Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
+- Time: 07:00
+
+notes:
+
+On one hand, I feel like nothing is happening really. On the other hand: I have the suspicion that deeper changes are happening.  
+I have experienced crazy mood/emotional swings last week that felt like a fever dream. And looking back, something similar happened ca. 1 month ago. 25 days do be specific.  
+The mood change happened on Wednesday night, had a high on Thursday, and I slowly felt normal again on Friday to Saturday.
+
+I'll have to keep an eye on that. If that happens again, in a month from now, I might have a 7-day cycle inside a 28-day cycle happening here lol. It would make sense in a bit.  
+This then could also explain why I had periods where I felt like everything is changing and others where nothing is happening - cause how I felt last week was just wild; a speedrun of:
+
+- Wednesday: outgoing, I want to hug people and express my emotions
+- Thursday: _urgh_, I'm way too much for the world, I'm soo annoying, I'll just hide
+- Friday: Oh, I see so clear now, the fog is gone but give me a second to process and relax
+- Saturday: Ok, _that_ was weird. I need a day to reset and recharge
+- Sunday: I feel _normal_ again
+
+### Week 17 - 13.05.2025
+
+- Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
+- Time: 06:30
+
+notes: didn't manage to make an appointment for the blood test yet -.-
