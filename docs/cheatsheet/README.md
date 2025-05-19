@@ -1,5 +1,11 @@
 # Usefull commands
 
+# find, grep, etc.
+
+- grep recursively in gz/zip files
+    - `find . -name \*.gz -print0 | xargs -0 zgrep "grub"`
+    - `find . -name syslog\*.gz -print0 | xargs -0 zgrep "grub"`
+
 # openssl, certificates, ssl
 
 - conert *.cer to *.pem
