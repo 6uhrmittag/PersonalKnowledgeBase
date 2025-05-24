@@ -333,6 +333,12 @@ Preface:
 
 You may have to set up the OpenVR-SpaceCalibrator again if you switch tools. Some identify the Quest as a new device, so OpenVR-SpaceCalibrator can't find it.
 
+### Other Software (Optional)
+
+> Disclaimer: More of a random list at this point.
+
+- https://mbucchia.github.io/OpenXR-Toolkit
+
 ## Resources
 
 - Comparison of VR Hardware
