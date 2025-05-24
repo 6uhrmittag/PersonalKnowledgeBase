@@ -306,4 +306,13 @@ This then could also explain why I had periods where I felt like everything is c
 - Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
 - Time: 06:30
 
-notes: didn't manage to make an appointment for the blood test yet -.-
+notes:
+
+- didn't manage to make an appointment for the blood test yet -.-
+- very low mood to this week. No real drive. Feels a bit weird. Not bad. Just neutral.
+
+### Week 18 - 20.05.2025
+
+- Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
+- Time: 07:00
+  e blood test on the 27th of May.
