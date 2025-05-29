@@ -315,4 +315,13 @@ notes:
 
 - Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
 - Time: 07:00
-  e blood test on the 27th of May.
+
+### Week 19 - 27.05.2025
+
+- Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
+- Time: 08:00
+
+notes:
+
+Went back to 7 mg despite not having a new blood test yet. Just a bit tough when there's technically only one day in the week where a test should be done.   
+But 6mg just felt... off (a lot more consideration went into this of course, but it that's the tl;dr).
