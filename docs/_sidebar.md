@@ -29,6 +29,7 @@
     - [Game Modding](tools/gaming_modding.md)
 - [VirtualReality(VR)](VirtualReality(VR)/setup/)
     - [VR Setup](VirtualReality(VR)/setup/)
+    - [VR and PC Addons](VirtualReality(VR)/setup/VR-and-PC-Addons.md)
     - [Recording VR](VirtualReality(VR)/recording/)
 - [Programming](programming/)
     - [PowerShell Scripting](programming/PowerShell_Scripting.md)
