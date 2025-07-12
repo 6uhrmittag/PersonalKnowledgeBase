@@ -325,3 +325,7 @@ notes:
 
 Went back to 7 mg despite not having a new blood test yet. Just a bit tough when there's technically only one day in the week where a test should be done.   
 But 6mg just felt... off (a lot more consideration went into this of course, but it that's the tl;dr).
+
+### from here on...
+
+I'll stay on 7mg and only update if there are any significant changes or milestones <3
