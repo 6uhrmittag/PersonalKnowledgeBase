@@ -101,6 +101,33 @@ https://powershellmagazine.com/2012/05/14/managing-group-policy-with-powershell/
 https://github.com/EvotecIT/GPOZaurr
 https://evotec.xyz/the-only-command-you-will-ever-need-to-understand-and-fix-your-group-policies-gpo/
 
+## Customizing Windows
+
+### Icons and stuff
+
+#### Icons
+
+- Assets
+- Tools
+    - https://www.mitec.cz/iconex.html
+
+#### Cursors
+
+- Assets
+    - https://www.rw-designer.com/cursor-set/hello-kitty
+- Tools
+    - https://www.rw-designer.com/change-cursor
+
+## random links and resources
+
+- cool sites
+    - https://www.majorgeeks.com/
+    - https://www.rw-designer.com/
+    - https://iconphile.de.softonic.com/
+- utilities
+    - https://www.mitec.cz/exe.html
+    - https://www.mitec.cz/msics.html
+
 # file hosting
 
 ## hosting services
