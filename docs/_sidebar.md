@@ -33,7 +33,7 @@
     - [MetaQuest Notes](VirtualReality(VR)/setup/QuestNotes.md)
     - [Recording VR](VirtualReality(VR)/recording/)
     - [Benchmarking VR](VirtualReality(VR)/benchmarking/)
-    - [VRChat](VirtualReality(VR)/vrchat/)
+    - [VRChat](VirtualReality(VR)/VRChat/)
     - [VR/3D Moddeling](VirtualReality(VR)/VRModelling/)
 - [Gaming](gaming/)
     - [Gaming Modding](gaming/modding/)
