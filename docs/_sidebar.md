@@ -30,6 +30,7 @@
 - [VirtualReality(VR)](VirtualReality(VR)/setup/)
     - [VR Setup](VirtualReality(VR)/setup/)
     - [VR and PC Addons](VirtualReality(VR)/setup/VR-and-PC-Addons.md)
+    - [MetaQuest Notes](VirtualReality(VR)/setup/QuestNotes.md)
     - [Recording VR](VirtualReality(VR)/recording/)
     - [Benchmarking VR](VirtualReality(VR)/benchmarking/)
     - [VRChat](VirtualReality(VR)/vrchat/)
