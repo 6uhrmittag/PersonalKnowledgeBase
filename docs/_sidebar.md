@@ -32,6 +32,7 @@
     - [VR and PC Addons](VirtualReality(VR)/setup/VR-and-PC-Addons.md)
     - [Recording VR](VirtualReality(VR)/recording/)
     - [Benchmarking VR](VirtualReality(VR)/benchmarking/)
+    - [VRChat](VirtualReality(VR)/vrchat/)
 - [Gaming](gaming/)
     - [Gaming Modding](gaming/modding/)
         - [Starri](gaming/modding/starri.md)
