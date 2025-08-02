@@ -1,29 +1,24 @@
 # resources - random IT topics
 
-## windows
-
-- list of environment variables on Windows 10
-    - https://pureinfotech.com/list-environment-variables-windows-10/
-
 ## linux
 
-- http://linux-training.be/index.php?nav=home
-    - http://linux-training.be/linuxfun.pdf - Linux Fundamentals.pdf teaches you the very fundamentals of Linux (or Unix!).
-    - http://linux-training.be/linuxsys.pdf - System Administration.pdf teaches you Linux system administration (not Unix).
-    - http://linux-training.be/linuxsrv.pdf - Linux Servers.pdf shows how to setup common services like a web server, a name server, a database server, a dhcp server, a file server and more.
-- https://nostarch.com/howlinuxworks2
-
-## linux guides
+### linux guides
 
 - https://linuxjourney.com/
 - https://tutorials.ubuntu.com/
     - interesting website/tutorial system
     - some are very basic
 - http://www.tldp.org/guides.html
+- http://linux-training.be/index.php?nav=home
+    - http://linux-training.be/linuxfun.pdf - Linux Fundamentals.pdf teaches you the very fundamentals of Linux (or Unix!).
+    - http://linux-training.be/linuxsys.pdf - System Administration.pdf teaches you Linux system administration (not Unix).
+    - http://linux-training.be/linuxsrv.pdf - Linux Servers.pdf shows how to setup common services like a web server, a name server, a database server, a dhcp server, a file server and more.
+- https://nostarch.com/howlinuxworks2
 
-## docker
+### linux tools
 
-- ~~Dockerfile In-Depth Guide Dockerfile In-Depth Guide - https://knowledgepill.it/posts/docker-build-from-dockerfile/~~ [offline]
+- https://github.com/luong-komorebi/Awesome-Linux-Software
+- https://wiki.archlinux.org/index.php/list_of_applications
 
 ## shell/scripting
 
@@ -48,11 +43,6 @@
 - http://cb.vu/unixtoolbox.xhtml :exclamation:
 - https://linuxguideandhints.com/
 - https://github.com/KnowNo/the-book-of-secret-knowledge
-
-## linux tools
-
-- https://github.com/luong-komorebi/Awesome-Linux-Software
-- https://wiki.archlinux.org/index.php/list_of_applications
 
 # databases
 
@@ -93,6 +83,11 @@
 
 # Windows
 
+## sysadmin knowledge
+
+- list of environment variables on Windows 10
+    - https://pureinfotech.com/list-environment-variables-windows-10/
+
 ## Powershell
 
 ## GPO
@@ -128,9 +123,9 @@ https://evotec.xyz/the-only-command-you-will-ever-need-to-understand-and-fix-you
     - https://www.mitec.cz/exe.html
     - https://www.mitec.cz/msics.html
 
-# file hosting
+## file hosting
 
-## hosting services
+### hosting services
 
 - https://uguu.se/
     - files hosted for 3 hours only
@@ -151,7 +146,27 @@ https://evotec.xyz/the-only-command-you-will-ever-need-to-understand-and-fix-you
     - files hosted for 1 hour to 3 days
     - not open source
 
-## tools to host
+### tools to host
 
 - https://github.com/nokonoko/uguu
 - https://git.0x0.st/mia/0x0
+
+## cool personal blogs, portfolios, etc.
+
+- https://github.com/mrusme
+- https://movsw.0x0.st/@0x0
+    - admin of the file hosting: https://0x0.st/
+- https://fef.moe/
+    - never seen a _proof of identify_ before... which is such a cool idea: https://fef.moe/canary.txt
+- https://xn--gckvb8fzb.com/
+    - what a vibe..
+    - their GitHub profile is cool too: https://github.com/mrusme
+- https://github.com/kennethnym
+    - got interesting little projects<3
+
+## funky random projects
+
+- https://cutephp.com/
+    - tiny CMS written in PHP, still maintained and very cute
+- https://github.com/vmfunc/cargo-buttplug
+    - I'm sorry, but lul.
