@@ -33,6 +33,7 @@
     - [Recording VR](VirtualReality(VR)/recording/)
     - [Benchmarking VR](VirtualReality(VR)/benchmarking/)
     - [VRChat](VirtualReality(VR)/vrchat/)
+    - [VR/3D Moddeling](VirtualReality(VR)/VRModelling/)
 - [Gaming](gaming/)
     - [Gaming Modding](gaming/modding/)
         - [Starri](gaming/modding/starri.md)
