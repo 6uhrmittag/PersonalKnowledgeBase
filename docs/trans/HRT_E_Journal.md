@@ -125,6 +125,7 @@ After reading so many stories about being emotional and unstable, I decided to g
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 09:05
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
 After debating with myself and ChatGPT, I decided to just go for it immediately instead of waiting for an arbitrarily "better" day. Exactly how I planned the whole thing - have everything ready to start the moment I feel ready. And this moment was now!
 
@@ -135,6 +136,7 @@ I felt just a tiny bit relaxed.
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 08:00
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
 Week two I slowly felt like the slight increase in happiness is consistent and noticable - I started to smile every time I looked into the mirror.
 
@@ -149,6 +151,7 @@ omg. It's happening.
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 07:00
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
 Is it the nipple piercings that got infected or the HRT?
 Ok, sorry babe, but they should be healed by now.
@@ -159,6 +162,7 @@ omg.
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 07:00
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
 Friday 21.02.: After _rotting_ for a two days in homeoffice and in the same clothes, I got really confused seeing myself shirtless in the mirror.
 I'm still not sure. But... there might be something happening.
@@ -179,6 +183,9 @@ It is something expected to happen, triggered by second puberty. I'll see how it
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 09:00
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
+
+
 - changes
 
     - Felt a little meh the whole week - probably because of the weather and a light cold.
@@ -194,6 +201,7 @@ It is something expected to happen, triggered by second puberty. I'll see how it
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 07:00
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
 notes:
 
@@ -229,6 +237,7 @@ Link to chart: https://advsim.transfemscience.org/?r=3&e=444&d1=7&d2=6&d3=5&ra=3
 
 - Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
 - Time: 09:00
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
 notes:
 
@@ -240,10 +249,17 @@ changes:
 - none really. Ok. Maybe I've felt all the emotions and cried a lot every other day. But I refuse to believe that it's related to the E - I've been always like this (no, I'm not in denial. It's the butterflies, OK!!??!11!?!) XD
 - no physical changes as far as I can tell
 
+#### 17.03.2025 - 20:38 - OMG BOYS aaaarrggggg!!11!!
+
+Emotions and guys are wild. I just felt the urge to create a Music Playlist called _stupid boys driving me insane🤬_ to rage all my feelings out lol
+
+![Screenshot of Playlist: stupid boys driving me insane](./.assets/195792656530800.png)
+
 ### Week 9 - 18.03.2025
 
 - Dosage: Mid/average (5 mg/week); [0.10 ml](https://www.wolframalpha.com/input?i=0.10mg%2Fml*50mg%2Fml) or 10 Units of the U100 Scale.
 - Time: 08:05
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
 notes:
 
@@ -253,6 +269,7 @@ notes:
 
 - Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
 - Time: 08:00
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
 notes:
 
@@ -265,13 +282,14 @@ notes:
 
 - Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
 - Time: 07:00–08:00
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
 notes:
 
 I don't have much to say about these weeks to be honest. After the more higher levels and obvious changes around 8, I don't really notice obvious changes right now. Guess I just live?!  
 Much of it is more psychological, I think. Enjoying the calm sea after leaving a long storm behind. A lot of adjusting, exploring, enjoying, and relaxing.
 
-# Week 15 - 29.04.2025
+### Week 15 - 29.04.2025
 
 - Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
 - Time: 07:00
@@ -285,6 +303,7 @@ Could be just the sun. Could also be the levels at the end of the week, or just 
 
 - Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
 - Time: 07:00
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
 notes:
 
@@ -305,6 +324,7 @@ This then could also explain why I had periods where I felt like everything is c
 
 - Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
 - Time: 06:30
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
 notes:
 
@@ -316,16 +336,89 @@ notes:
 - Dosage: Mid (6 mg/week); 0.12 ml or 12 Units of the U100 Scale.
 - Time: 07:00
 
+#### 24.05.2025 - omg this is my life now
+
+I've just realized that I won't stop this any time soon now. I am becoming me now. And I'm starting to love this me.  
+This also means: **I'll need a stock of Estrogen.**. For
+
+- when I run out of the current stock
+- when I want to go on vacation and have to take it with me
+- when I accidentally drop a vial and break it or fuck it up in any other way
+- when I meet someone in need
+- when something goes wrong
+- **not having to worry about supplies**
+
+The good thing is: The dosage and volume of DIY E vials is much higher than the one of prescription vials - so one vial will last me for over a year. Unopened vials also have a shelf life of about 3 years (according to Voix Céleste),  
+so it only cost 200€ to have a stock that will last me 3 years.
+
+Also: I wanted to try EEn with **Grapeseed Oil** instead of MCT Oil, because of the itching on my leg I get after the injection (see Week 6).  
+I've did a bit of research and a discussion with ChatGPT and came to the conclusion that even thought MCT Oil isn't the stuff that causes the typically described allergic reaction (Thats _benzyl benzoate_), it's worth a try.  
+(I'm also a bit sensitive in regard to histamines and learned that sometimes totally normal stuff can make my body go \*_wtf what is happening_\* lol. So why not.)  
+Dosage is the same. Apparently the release is a bit *softer* as with MCT Oil, but I don't really know what that changes...
+
+Sidenote: When I say _discussion with ChatGPT_ I mean reflecting on my own thoughts with ChatGPT as a tool. I love ChatGPT for that. I know mostly reflects my own thoughts, so I'm basically convincing myself through a third persons perspective.  
+Thats how I ended up with one vial of EEn with MCT Oil and one with Grapeseed Oil. Because I didn't knew how I'd react to Grapeseed Oil, but also needed the safety net of having a stock of E for when something goes wrong.
+
+So! Like the first time, Voix Céleste is the place to go and I just needed to wait a few days for the order to arrive <3
+
+![Order of EEN in MCT Oil and Grapeseed Oil](./.assets/196398247788900.png)
+
+#### Sidenote on Crypto
+
+I used Bitcoin.de for my first order. But they stopped allowing direct transfers to third party wallets and I wasn't willing to risk it to just tick the _yah, it's miiiine_ box (also because Bitcoin.de will "_verify this wallet manually first_" wtf).  
+Sine I'm using Litecoin, I tried using the _official_ [Litecoin wallet/Local Desktop client](https://litecoin.org/de/) but **OH MY GOD WHAT THE FUCK ARE YOU GUYS DOING?!?! WHAT IS THIS SHIT THING OF AN APP LOL**🤬😂  
+What the fuck lol.
+
+Anyway! Luckily, I found [Cake Wallet App](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet)([cakewallet.com](https://cakewallet.com/)) that **_just works_**.  
+With that, everything went _easy peasy lemon squeezy_ - Voix will also give you a QR Code to scan for the transfer <3
+
+#### 25.05.2025 - Cozy shows hit differnt now
+
+Watching cozy shows feel very cozy and comforting now 🙈  
+I'd love to life in Middleton from the show _[Good Witch](https://www.imdb.com/de/title/tt3906732/)_ \*__\*
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y4kDSKGxvD8?si=C4IYeZOSIsbWVAl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>###
+
 ### Week 19 - 27.05.2025
 
 - Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
 - Time: 08:00
+- Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
 notes:
 
 Went back to 7 mg despite not having a new blood test yet. Just a bit tough when there's technically only one day in the week where a test should be done.   
 But 6mg just felt... off (a lot more consideration went into this of course, but it that's the tl;dr).
 
-### from here on...
+### Week 20 - 03.06.2025
+
+- Dosage: Mid (7 mg/week); 0.14 ml or 14 Units of the U100 Scale.
+- Time: 08:00
+- Estrogen: Estradiol Enanthate Grapeseed Oil 50mg/ml
+
+Tried the new EEn with Grapeseed Oil this week **AND IT WORKED!**. No more itchy legs after the injection!  
+Will now just keep going with this one - I'll just keep the old vail with MCT Oil and... idk alternate or something? I can tolerate an itchy leg sometimes XD
+
+### from here on I'll just add notes whenever I feel like it<3...
 
 I'll stay on 7mg and only update if there are any significant changes or milestones <3
+
+### late 06/07.2025 - bra life
+
+It's summer. \*Unfortunately\*, I discovered that I like to wear tight shirts instead of baggy hoodies already in the middle of last years.  
+It took me a few awkward moments to realize that I can't pull off the _no bra_ look with tight shirts anymore LOL. ESPECIALLY since I have nipple piercings AHAHAHAHA  
+So, from now on, I probably won't be able to go without a bra anymore (\*_oh nooooo I'm sooooooo sad about THAT LOL_\*)
+
+### 29.07.2025 - Goodbye piercings
+
+Decided to take out my nipple piercings. I've got them in a time when I didn't have boobies and super flat nipples. They feel a bit *not me* now.  
+Goodbye - you were fun while you lasted and I very much needed you<3
+
+(for the funny and out-of-the-pocket record: omg I wish I'd be _that girl_ though :D You don't understand - I've had TWO barbell piercings in EACH. Like a cross. Soo cool and wild o_O :D)
+
+### 17.08.2025 - GitHub Copilot being the affirming bro WTF LOL
+
+Copilot, Chill AHAHAHAHA WHAT IS THIS AUTOCOMPLETE LOL <3
+
+![Copilot autocompletes to: Got my first period](./.assets/199291240910200.png)
+
