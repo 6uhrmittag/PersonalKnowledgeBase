@@ -10,7 +10,7 @@ I do have an offline journal where I put in unfinished thoughts and stuff - but 
 ## Prologue
 
 This phase is about 20 years long and consists of me, growing up in the 90s, watching South Park and Galileo, and feeling like I don't fit in anywhere.  
-One of the major things I remember is the confusion I've had, when I got insulted by being called _gay_ by classmates, but also random people on the street (and also a later girlfriend, which is... idk lol).  
+One of the major things I remember is the confusion I've had, when classmates, but also random people on the street (and also a later girlfriend, which is... idk lol) tried to insult me by calling me _gay_.  
 But what I even knew back then was that I didn't feel _gay_ at all.
 
 This conflict plays a major role in my life.  
@@ -27,7 +27,7 @@ The deep and strong, weird feeling I get whenever I'm trying to remember if I lo
 
 This is way to complex and confusing to put into a nice timeline, but to put it roughly: this phase started around April 2020, when I moved into my own apartment again after, after a breakup and like 15 years of living with other people and/or being in a relationship.  
 It may sound stupid and funny, but Amazon Prime + Amazon Locker Boxes played a big role in this phase.   
-The ability to get random stuff divided, without the _risk_ of a human judging the stuff, is such a big deal its not even funny.
+The ability to get random stuff delivered, without the _risk_ of a human judging the stuff, is such a big deal its not even funny.
 
 ![Me, as soon as I life alone](./.assets/202469878104300.jpg)
 
@@ -175,9 +175,9 @@ omg. It's happening.
 - Time: 07:00
 - Estrogen: Estradiol Enanthate 50mg/ml (MCT Oil, palm oil based)
 
-Is it the nipple piercings that got infected or the HRT?
-Ok, sorry babe, but they should be healed by now.
-Physical changes are happening.
+Is it the nipple piercings that got infected or the HRT?  
+Ok, sorry babe, but they should be healed by now.  
+Physical changes are happening.  
 omg.
 
 ### Week 4 - 11.02.2025 - I've joined the "Am I am just getting fatter or is the HRT working?" game
@@ -338,7 +338,7 @@ This then could also explain why I had periods where I felt like everything is c
 
 - Wednesday: outgoing, I want to hug people and express my emotions
 - Thursday: _urgh_, I'm way too much for the world, I'm soo annoying, I'll just hide
-- Friday: Oh, I see so clear now, the fog is gone but give me a second to process and relax
+- Friday: Oh, I see so clearly now, the fog is gone but give me a second to process and relax
 - Saturday: Ok, _that_ was weird. I need a day to reset and recharge
 - Sunday: I feel _normal_ again
 
@@ -390,7 +390,7 @@ So! Like the first time, Voix Céleste is the place to go and I just needed to w
 #### Sidenote on Crypto
 
 I used Bitcoin.de for my first order. But they stopped allowing direct transfers to third party wallets and I wasn't willing to risk it to just tick the _yah, it's miiiine_ box (also because Bitcoin.de will "_verify this wallet manually first_" wtf).  
-Sine I'm using Litecoin, I tried using the _official_ [Litecoin wallet/Local Desktop client](https://litecoin.org/de/) but **OH MY GOD WHAT THE FUCK ARE YOU GUYS DOING?!?! WHAT IS THIS SHIT THING OF AN APP LOL**🤬😂  
+Since I'm using Litecoin, I tried using the _official_ [Litecoin wallet/Local Desktop client](https://litecoin.org/de/) but **OH MY GOD WHAT THE FUCK ARE YOU GUYS DOING?!?! WHAT IS THIS SHIT THING OF AN APP LOL**🤬😂  
 What the fuck lol.
 
 Anyway! Luckily, I found [Cake Wallet App](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet)([cakewallet.com](https://cakewallet.com/)) that **_just works_**.  
@@ -412,7 +412,7 @@ I'd love to life in Middleton from the show _[Good Witch](https://www.imdb.com/d
 notes:
 
 Went back to 7 mg despite not having a new blood test yet. Just a bit tough when there's technically only one day in the week where a test should be done.   
-But 6mg just felt... off (a lot more consideration went into this of course, but it that's the tl;dr).
+But 6mg just felt... off (a lot more consideration went into this, of course, but it that's the tl;dr).
 
 ### Week 20 - 03.06.2025
 
