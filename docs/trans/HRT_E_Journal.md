@@ -7,7 +7,25 @@ I do have an offline journal where I put in unfinished thoughts and stuff - but 
 
 ## Prologue
 
+This phase is about 20 years long and consists of me, growing up in the 90s, watching South Park and Galileo, and feeling like I don't fit in anywhere.  
+One of the major things I remember is the confusion I've had, when I got insulted by being called _gay_ by classmates, but also random people on the street (and also a later girlfriend, which is... idk lol).  
+But what I even knew back then was that I didn't feel _gay_ at all.
+
+This conflict plays a major role in my life.  
+I later learned that this created such a weird internalized homophobia that to this day I distance myself a bit from the _sexuality bit_ of the LGBTQIA+ community.  
+(Sidenote from 17.08.2025: I'm slowly starting to like the *be gay do crime* interpretation of the word _gay_ <3 **reclaim the gay!** <3)
+
+But learning this also explained a lot.
+
+The deep and strong, weird feeling I get whenever I'm trying to remember if I looked into the topic of transness even back then also tells me that I very much did. And that I must have felt hurt a metric fuckton.
+
+And I can
+
 ### Phase 1 - Understanding my own Thoughts and Feelings
+
+This is way to complex and confusing to put into a nice timeline, but to put it roughly: this phase started around April 2020, when I moved into my own apartment again after, after a breakup and like 15 years of living with other people and/or being in a relationship.  
+It may sound stupid and funny, but Amazon Prime + Amazon Locker Boxes played a big role in this phase.   
+The ability to get random stuff divided, without the _risk_ of a human judging the stuff, is such a big deal its not even funny.
 
 ### Phase 2 - The Point of No Return
 
