@@ -1,5 +1,7 @@
 # HRT(E) Journal - Notes and Thoughts from a Journey into Unknown Territories
 
+> See this page for a few details on *how* to do transfem E-DIY: [trans(-fem) stuff:3 (Fokus aktuell HRT)](trans/README.md)
+
 ## Intro and Disclaimer
 
 I'm a big fan of putting the same kind of stuff into the same place(e.g. one todo app for all todos instead of multiple tools + notebooks), so I've decided to put my notes and thoughts about trying HRT here.
