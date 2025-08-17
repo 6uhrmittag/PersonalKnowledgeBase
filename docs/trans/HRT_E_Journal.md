@@ -19,13 +19,15 @@ But learning this also explained a lot.
 
 The deep and strong, weird feeling I get whenever I'm trying to remember if I looked into the topic of transness even back then also tells me that I very much did. And that I must have felt hurt a metric fuckton.
 
-And I can
+![yes we did try to not be trans thank you very much lol](./.assets/203161756480100.jpg)
 
 ### Phase 1 - Understanding my own Thoughts and Feelings
 
 This is way to complex and confusing to put into a nice timeline, but to put it roughly: this phase started around April 2020, when I moved into my own apartment again after, after a breakup and like 15 years of living with other people and/or being in a relationship.  
 It may sound stupid and funny, but Amazon Prime + Amazon Locker Boxes played a big role in this phase.   
 The ability to get random stuff divided, without the _risk_ of a human judging the stuff, is such a big deal its not even funny.
+
+![Me, as soon as I life alone](./.assets/202469878104300.jpg)
 
 ### Phase 2 - The Point of No Return
 
@@ -366,6 +368,8 @@ This also means: **I'll need a stock of Estrogen.**. For
 - when something goes wrong
 - **not having to worry about supplies**
 
+![This is my life now](./.assets/202989170473800.jpg)
+
 The good thing is: The dosage and volume of DIY E vials is much higher than the one of prescription vials - so one vial will last me for over a year. Unopened vials also have a shelf life of about 3 years (according to Voix Céleste),  
 so it only cost 200€ to have a stock that will last me 3 years.
 
@@ -433,6 +437,15 @@ Decided to take out my nipple piercings. I've got them in a time when I didn't h
 Goodbye - you were fun while you lasted and I very much needed you<3
 
 (for the funny and out-of-the-pocket record: omg I wish I'd be _that girl_ though :D You don't understand - I've had TWO barbell piercings in EACH. Like a cross. Soo cool and wild o_O :D)
+
+### 08.2025 - eeehm. boys?
+
+As stated in the prologue, I always had a weird relationship with being seen as _gay_.  
+The more I'm into E, the more I feel like there is a reason I felt wrong about it:
+
+**OF COURSE I'M NOT GAY IF I'M A WOMAN LIKING MEN** 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
+
+![what does gay even mean?!](./.assets/203309922445600.png)
 
 ### 17.08.2025 - GitHub Copilot being the affirming bro WTF LOL
 
