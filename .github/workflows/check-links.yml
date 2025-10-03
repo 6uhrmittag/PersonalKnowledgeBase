@@ -1,14 +1,11 @@
 name: Check Links
 
 on:
-  push:
-    branches:
-      - master
-  pull_request:
-  repository_dispatch:
-  workflow_dispatch:
-  # schedule:
-  #   - cron: "0 0 1 * *"
+  schedule:
+    # Run every two months on the first Saturday at 14:00 UTC
+    # Cron format: minute hour day month day-of-week
+    # This runs at 14:00 on the first Saturday of January, March, May, July, September, November
+    - cron: "0 14 1-7 1,3,5,7,9,11 6"
 
 jobs:
   linkChecker:
