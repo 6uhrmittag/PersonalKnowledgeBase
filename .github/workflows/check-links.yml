@@ -2,10 +2,10 @@ name: Check Links
 
 on:
   schedule:
-    # Run every two months on the first Saturday at 14:00 UTC
+    # Run at 06:00 UTC on the first day of every month
     # Cron format: minute hour day month day-of-week
-    # This runs at 14:00 on the first Saturday of January, March, May, July, September, November
-    - cron: "0 14 1-7 1,3,5,7,9,11 6"
+    # This runs at 06:00 on the first day of each month
+    - cron: "0 6 1 * *"
 
 jobs:
   linkChecker:
