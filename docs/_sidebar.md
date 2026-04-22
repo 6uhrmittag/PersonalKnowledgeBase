@@ -46,6 +46,7 @@
 - Checklists
     - [Server](checklists/server.md)
 - Workstation Setup
+    - [PC Hardware](setup/pc-hardware/) 
     - [Windows](setup/)
     - [Linux Subsystem](setup/windows/linuxSubsystem/)
     - [Laptop](setup/windows/laptop/)
