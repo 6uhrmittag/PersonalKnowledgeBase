@@ -1,0 +1,121 @@
+{
+  "name": "FragPunk",
+  "current_scene": "FragPunk Master",
+  "current_program_scene": "FragPunk Master",
+  "current_transition": "Cut",
+  "groups": [],
+  "modules": {},
+  "preview_locked": false,
+  "quick_transitions": [],
+  "saved_projectors": [],
+  "scaling_enabled": false,
+  "scene_order": [
+    { "name": "FragPunk Master" }
+  ],
+  "transition_duration": 300,
+  "transitions": [],
+  "sources": [
+    {
+      "id": "scene",
+      "versioned_id": "scene",
+      "name": "FragPunk Master",
+      "enabled": true,
+      "muted": false,
+      "volume": 1.0,
+      "sync": 0,
+      "mixers": 0,
+      "monitoring_type": 0,
+      "flags": 0,
+      "balance": 0.5,
+      "hotkeys": {},
+      "private_settings": {},
+      "settings": {
+        "id_counter": 1,
+        "custom_size": false,
+        "items": [
+          {
+            "name": "Game Capture",
+            "id": 1,
+            "visible": true,
+            "locked": true,
+            "pos": { "x": 0.0, "y": 0.0 },
+            "rot": 0.0,
+            "scale": { "x": 1.0, "y": 1.0 },
+            "align": 5,
+            "bounds": { "x": 0.0, "y": 0.0 },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_top": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "scale_filter": "disable",
+            "group_item_backup": false,
+            "private_settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "game_capture",
+      "versioned_id": "game_capture",
+      "name": "Game Capture",
+      "enabled": true,
+      "muted": false,
+      "volume": 1.0,
+      "sync": 0,
+      "mixers": 0,
+      "monitoring_type": 0,
+      "flags": 0,
+      "balance": 0.5,
+      "hotkeys": {},
+      "private_settings": {},
+      "settings": {
+        "capture_mode": "any_fullscreen",
+        "capture_cursor": false,
+        "allow_transparency": false,
+        "premultiplied_alpha": false,
+        "limit_framerate": false,
+        "capture_overlays": false,
+        "antialiasing": true,
+        "hook_rate": 1
+      }
+    },
+    {
+      "id": "wasapi_output_capture",
+      "versioned_id": "wasapi_output_capture",
+      "name": "Game Audio",
+      "enabled": true,
+      "muted": false,
+      "volume": 1.0,
+      "sync": 0,
+      "mixers": 1,
+      "monitoring_type": 0,
+      "flags": 0,
+      "balance": 0.5,
+      "hotkeys": {},
+      "private_settings": {},
+      "settings": {
+        "device_id": "default"
+      }
+    },
+    {
+      "id": "wasapi_input_capture",
+      "versioned_id": "wasapi_input_capture",
+      "name": "Mic",
+      "enabled": true,
+      "muted": false,
+      "volume": 1.0,
+      "sync": 0,
+      "mixers": 2,
+      "monitoring_type": 0,
+      "flags": 0,
+      "balance": 0.5,
+      "hotkeys": {},
+      "private_settings": {},
+      "settings": {
+        "device_id": "default"
+      }
+    }
+  ]
+}

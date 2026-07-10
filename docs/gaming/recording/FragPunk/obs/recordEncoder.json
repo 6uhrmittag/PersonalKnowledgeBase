@@ -1,0 +1,12 @@
+{
+  "rate_control": "CQP",
+  "cqp": 16,
+  "preset2": "p5",
+  "tune": "hq",
+  "multipass": "disabled",
+  "profile": "main",
+  "bf": 2,
+  "lookahead": false,
+  "psycho_aq": true,
+  "keyint_sec": 2
+}
