@@ -114,12 +114,23 @@ if (Test-Path $GameLog) {
 Write-Section 'SteamVR OpenXR handshake'
 $xr = Join-Path $SteamRoot "logs\$XrClient"
 if (Test-Path $xr) {
-    $age = (Get-Date) - (Get-Item $xr).LastWriteTime
-    '{0} last written: {1} ({2:N1} h ago)' -f $XrClient, (Get-Item $xr).LastWriteTime, $age.TotalHours
-    if ($age.TotalHours -lt 1) {
-        Write-Host '  -> FRESH: the game reached SteamVR OpenXR runtime.' -ForegroundColor Green
+    '{0} last written: {1}' -f $XrClient, (Get-Item $xr).LastWriteTime
+
+    # A fresh timestamp proves NOTHING - this file is written as soon as the game loads
+    # SteamVR's OpenXR client library, including on launches that die immediately.
+    # Only a real vrserver/compositor connection means the game actually rendered.
+    $xt       = Get-Content $xr
+    $connects = ($xt | Select-String -Pattern 'success response from vr(server|compositor) connect' | Measure-Object).Count
+    $states   = ($xt | Select-String -Pattern 'Transitioning XrSession'                             | Measure-Object).Count
+    $drivers  = ($xt | Select-String -Pattern 'Load Default Json Settings from .*\\drivers\\'        | Measure-Object).Count
+
+    "  vrserver/compositor connects : $connects"
+    "  XrSession transitions        : $states"
+    "  driver enumerations (old SteamVR builds): $drivers"
+    if (($connects + $states + $drivers) -gt 0) {
+        Write-Host '  -> this app HAS had a real SteamVR OpenXR session at some point.' -ForegroundColor Green
     } else {
-        Write-Host '  -> STALE: no recent connection to SteamVR OpenXR runtime.' -ForegroundColor Yellow
+        Write-Host '  -> startup banners only: the game loaded the client but NEVER rendered.' -ForegroundColor Red
     }
 } else {
     "$XrClient does not exist - this app has never used SteamVR's OpenXR runtime"
