@@ -52,3 +52,6 @@
     - [Laptop](setup/windows/laptop/)
 - Things
     - [Things](things/)
+- In Progress
+    - [Drafts](in-progress/)
+    - [SynthRiders OpenXR fix](in-progress/synthriders-openxr/)
