@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-Marvin's personal knowledge base — the "persistent knowledge" he wants available on every machine without looking it up elsewhere. Content is Markdown under `docs/`, rendered client-side by [docsify](https://docsify.js.org/) and published via GitHub Pages at **slashlog.org** (`docs/CNAME`, `docs/.nojekyll`).
+The repo owner's personal knowledge base — the "persistent knowledge" they want available on every machine without looking it up elsewhere. Content is Markdown under `docs/`, rendered client-side by [docsify](https://docsify.js.org/) and published via GitHub Pages at **slashlog.org** (`docs/CNAME`, `docs/.nojekyll`).
 
 There is no build step, no package.json, no tests. `docs/` *is* the site — what is committed is what is served.
 
